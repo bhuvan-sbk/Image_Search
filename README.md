@@ -126,9 +126,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## **Connect with Me** 👋
 
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/your-profile)
-- **Portfolio**: [Your Portfolio](https://your-portfolio.com)
+- **GitHub**: [bhuvan-sbk]([https://github.com/your-username](https://github.com/bhuvan-sbk))
+- **LinkedIn**: [bhuvan-kumar-428525161]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bhuvan-kumar-428525161/))
+- **Portfolio**: [Bhuvan kumar]([https://bhuvankumar-portfolio.netlify.app/]])
 
 ---
 
@@ -136,7 +136,6 @@ Enjoy searching for beautiful images! 🌟
 
 ---
 
-### **Preview of README.md**
-You can preview the README.md file directly in your GitHub repository. It will render the markdown content beautifully with headings, lists, and images.
+ 
 
-Let me know if you need further assistance! 😊
+ 
